@@ -8,6 +8,9 @@ public class ServletApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ServletApplication.class, args);
+
+
+		System.out.println(" 하 드디어 됐네 진짜;");
 	}
 
 }
